@@ -171,6 +171,7 @@ function logColor(color: "red" | "green" | "blue", uppercase?: boolean) {
 logColor("red"); // logs "red"
 logColor("green", true); // logs "GREEN"
 logColor("blue", false); // logs "blue"
+// comment added
 
 
 
