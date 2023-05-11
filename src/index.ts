@@ -160,6 +160,8 @@ console.log(`The maximum value is ${max}`);
 
 
 
+
+
 // Solution 8:
 
 function logColor(color: "red" | "green" | "blue", uppercase?: boolean) {
